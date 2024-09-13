@@ -122,3 +122,15 @@ p {
 #share svg:hover {
     transform: translateY(-3px);
 }
+
+button {
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    margin: auto;
+    transition: all 0.2s;
+}
+
+button:hover {
+    transform: scale(0.8);
+}
