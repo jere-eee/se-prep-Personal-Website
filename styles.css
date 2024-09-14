@@ -75,7 +75,8 @@ nav ul li:hover {
 }
 
 p {
-    font-size: 21px;
+    font-size: 24px;
+    color: white;
     font-family: "Proxima Soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
 }
 
